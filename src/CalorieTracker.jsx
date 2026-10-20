@@ -14,7 +14,7 @@ import { useState, useEffect, useMemo } from 'react';
    ════════════════════════════════════════════════════════════════════════════ */
 
 const KCAL_PER_KG = 7700;            // ~7700 kcal per kg of body fat
-const LS_KEY = 'omri_calorie_tracker_v1';
+const LS_KEY = 'calorie_deficit_planner_v1';
 
 // Local calendar date as YYYY-MM-DD — the per-day storage key. The food log
 // and exercise are stored under today's key, so when the date rolls over the

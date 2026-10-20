@@ -2,6 +2,9 @@
 
 A goal-based calorie tracker and weight-loss deficit planner. Self-contained React app — no backend, persists to `localStorage`.
 
+This independent personal project contains no employer, client, patient, or
+proprietary company data. It is an educational planning tool, not medical advice.
+
 ## Features
 - **Profile → BMR/TDEE** via Mifflin–St Jeor, with activity multipliers.
 - **Deficit planning** — set a target daily intake, get a precise days-to-goal-weight forecast (`weight to lose × 7700 kcal/kg ÷ daily deficit`).
